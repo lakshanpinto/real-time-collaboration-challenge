@@ -1,15 +1,9 @@
-# Realtime Collaboration Challenge
+# COLONIES
 
-## p5.js & sockets tutorial
 
-- [Supun](url)
-- [Lakshan](url)
+## ENJOY THE GAME
 
-## three.js and sockets tutorial
+[Play Game](https://mysterious-harbor-27383.herokuapp.com/)
 
-- [Supun](url)
-- [Lakshan](url)
-
-## Coding challenge
-
-[Go to repo](url) 
+##GITHUB REPO
+[Go to Repo](https://github.com/mstharindu/colonies-game)
