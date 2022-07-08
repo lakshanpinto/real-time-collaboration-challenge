@@ -1,7 +1,7 @@
-# |C|O|L|O|N|I|E|S GAME
+# |||||| COLONIES ||||||
 
 
-## ENJOY THE GAME
+## PLAY THE GAME
 [Play](https://mysterious-harbor-27383.herokuapp.com/)
 
 ## GITHUB REPO
